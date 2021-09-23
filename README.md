@@ -1,1 +1,1 @@
-# BaekJoonOnlineJudge by sloved.ac
+# BaekJoonOnlineJudge by https://solved.ac/
