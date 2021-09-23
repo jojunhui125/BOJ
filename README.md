@@ -1,1 +1,1 @@
-# BOJ
+# BaekJoonOnlineJudge by sloved.ac
